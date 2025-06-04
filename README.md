@@ -1,4 +1,18 @@
+
 # 🌍 Wanderly – Full-Stack Travel Booking Website
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-PHP-blue?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Database-MySQL-yellow?style=for-the-badge&logo=mysql&logoColor=black">
+  <img src="https://img.shields.io/badge/Frontend-Bootstrap%2C%20jQuery%2C%20HTML5-orange?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Styling-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JS%20Library-Isotope%2C%20WOW%2C%20Owl%20Carousel-lightgrey?style=for-the-badge&logo=javascript&logoColor=yellow">
+  <img src="https://img.shields.io/badge/UX-Mobile--First%2C%20Responsive-green?style=for-the-badge&logo=responsive&logoColor=white">
+  <img src="https://img.shields.io/badge/Booking-System-critical?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Status-Under%20Active%20Development-orange?style=for-the-badge&logo=githubactions&logoColor=white">
+</p>
+
 
 Wanderly is a fully responsive, visually stunning travel and tourism platform powered by PHP and MySQL. Designed for real-world deployment, it supports dynamic bookings, destination browsing, and secure user interactions. Built with modern UI/UX practices and mobile-first design, Wanderly is ideal for any travel agency or tourism startup.
 
