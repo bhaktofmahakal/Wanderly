@@ -67,6 +67,62 @@ Wanderly is a fully responsive, visually stunning travel and tourism platform po
 
 ---
 
+## 📸 Travel Website Screenshots
+
+> ✈️ Explore the beautifully crafted pages of our travel platform
+
+---
+
+### 🧳 Admin Dashboard  
+<div align="center">
+  <img src="/image/admin.png" alt="Admin Dashboard" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+  <p><em>Manage users, trips, and bookings with a modern admin interface.</em></p>
+</div>
+
+---
+
+### 📅 Booking Page  
+<div align="center">
+  <img src="/image/booking.png" alt="Booking Page" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+  <p><em>Effortlessly book your next journey with real-time availability.</em></p>
+</div>
+
+---
+
+### 🔍 Discover Page  
+<div align="center">
+  <img src="/image/discover.png" alt="Discover Page" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+  <p><em>Find destinations, experiences, and curated travel packages.</em></p>
+</div>
+
+---
+
+### 🏠 Home Page  
+<div align="center">
+  <img src="/image/home.png" alt="Home Page" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+  <p><em>Beautiful landing page showcasing your brand and featured tours.</em></p>
+</div>
+
+---
+
+### 🔐 Login Page  
+<div align="center">
+  <img src="/image/login.png" alt="Login Page" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+  <p><em>Secure login experience for both users and administrators.</em></p>
+</div>
+
+---
+
+### 📝 Register Page  
+<div align="center">
+  <img src="/image/register.png" alt="Register Page" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+  <p><em>Easy account creation to get started with your travel planning.</em></p>
+</div>
+
+
+---
+
+
 ## 📱 Responsive Design
 
 Mobile-first layout with full support for:
